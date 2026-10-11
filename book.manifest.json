@@ -1,0 +1,372 @@
+{
+  "$schema": "https://anaise.org/schemas/book.v1.json",
+  "id": "book-caps-siyavula-math-grade-9",
+  "title": "Mathematics Grade 9 (CAPS)",
+  "subtitle": "Complete CAPS-aligned digital textbook for Grade 9 Mathematics by Siyavula Education.",
+  "version": "1.0.0",
+  "coverImage": null,
+  "thumbnail": null,
+  "authors": [
+    {
+      "name": "Siyavula Education",
+      "affiliation": "Siyavula Open Textbooks Project"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "toc": [
+    {
+      "id": "ch01",
+      "title": "Chapter 1: Whole numbers",
+      "sections": [
+        {
+          "id": "sec-01-01-01-properties-of-numbers",
+          "title": "Properties of numbers",
+          "path": "chapters/01-whole-numbers/01-properties-of-numbers.mdx",
+          "estimatedMinutes": 9
+        },
+        {
+          "id": "sec-01-02-02-calculations-with-whole-numbers",
+          "title": "Calculations with whole numbers",
+          "path": "chapters/01-whole-numbers/02-calculations-with-whole-numbers.mdx",
+          "estimatedMinutes": 14
+        },
+        {
+          "id": "sec-01-03-03-multiples-and-factors",
+          "title": "Multiples and factors",
+          "path": "chapters/01-whole-numbers/03-multiples-and-factors.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-01-04-04-solving-problems-about-ratio-rate-and-proportion",
+          "title": "Solving problems about ratio, rate and proportion",
+          "path": "chapters/01-whole-numbers/04-solving-problems-about-ratio-rate-and-proportion.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-01-05-05-solving-problems-in-financial-contexts",
+          "title": "Solving problems in financial contexts",
+          "path": "chapters/01-whole-numbers/05-solving-problems-in-financial-contexts.mdx",
+          "estimatedMinutes": 10
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "title": "Chapter 2: Integers",
+      "sections": [
+        {
+          "id": "sec-02-01-02-integers",
+          "title": "Integers",
+          "path": "chapters/02-integers/02-integers.mdx",
+          "estimatedMinutes": 12
+        }
+      ]
+    },
+    {
+      "id": "ch03",
+      "title": "Chapter 3: Fractions",
+      "sections": [
+        {
+          "id": "sec-03-01-01-equivalent-fractions",
+          "title": "Equivalent fractions",
+          "path": "chapters/03-fractions/01-equivalent-fractions.mdx",
+          "estimatedMinutes": 6
+        },
+        {
+          "id": "sec-03-02-02-adding-and-subtracting-fractions",
+          "title": "Adding and subtracting fractions",
+          "path": "chapters/03-fractions/02-adding-and-subtracting-fractions.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-03-03-03-multiplying-and-dividing-fractions",
+          "title": "Multiplying and dividing fractions",
+          "path": "chapters/03-fractions/03-multiplying-and-dividing-fractions.mdx",
+          "estimatedMinutes": 8
+        },
+        {
+          "id": "sec-03-04-04-equivalent-forms",
+          "title": "Equivalent forms",
+          "path": "chapters/03-fractions/04-equivalent-forms.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "title": "Chapter 4: The decimal notation for fractions",
+      "sections": [
+        {
+          "id": "sec-04-01-01-equivalent-forms",
+          "title": "Equivalent forms",
+          "path": "chapters/04-the-decimal-notation-for-fractions/01-equivalent-forms.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-04-02-02-calculations-with-decimals",
+          "title": "Calculations with decimals",
+          "path": "chapters/04-the-decimal-notation-for-fractions/02-calculations-with-decimals.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-04-03-03-solving-problems",
+          "title": "Solving problems",
+          "path": "chapters/04-the-decimal-notation-for-fractions/03-solving-problems.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-04-04-04-more-problems",
+          "title": "More problems",
+          "path": "chapters/04-the-decimal-notation-for-fractions/04-more-problems.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-04-05-05-decimals-in-algebraic-expressions-and-equations",
+          "title": "Decimals in algebraic expressions and equations",
+          "path": "chapters/04-the-decimal-notation-for-fractions/05-decimals-in-algebraic-expressions-and-equations.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch05",
+      "title": "Chapter 5: Exponents",
+      "sections": [
+        {
+          "id": "sec-05-01-01-revision",
+          "title": "Revision",
+          "path": "chapters/05-exponents/01-revision.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-05-02-02-integer-exponents",
+          "title": "Integer exponents",
+          "path": "chapters/05-exponents/02-integer-exponents.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-05-03-03-solving-simple-exponential-equations",
+          "title": "Solving simple exponential equations",
+          "path": "chapters/05-exponents/03-solving-simple-exponential-equations.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-05-04-04-scientific-notation",
+          "title": "Scientific notation",
+          "path": "chapters/05-exponents/04-scientific-notation.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch06",
+      "title": "Chapter 6: Patterns",
+      "sections": [
+        {
+          "id": "sec-06-01-06-patterns",
+          "title": "Patterns",
+          "path": "chapters/06-patterns/06-patterns.mdx",
+          "estimatedMinutes": 16
+        }
+      ]
+    },
+    {
+      "id": "ch07",
+      "title": "Chapter 7: Functions and relationships",
+      "sections": [
+        {
+          "id": "sec-07-01-07-functions-and-relationships",
+          "title": "Functions and relationships",
+          "path": "chapters/07-functions-and-relationships/07-functions-and-relationships.mdx",
+          "estimatedMinutes": 6
+        }
+      ]
+    },
+    {
+      "id": "ch08",
+      "title": "Chapter 8: Algebraic expressions",
+      "sections": [
+        {
+          "id": "sec-08-01-01-algebraic-language",
+          "title": "Algebraic language",
+          "path": "chapters/08-algebraic-expressions/01-algebraic-language.mdx",
+          "estimatedMinutes": 13
+        },
+        {
+          "id": "sec-08-02-02-properties-of-operations",
+          "title": "Properties of operations",
+          "path": "chapters/08-algebraic-expressions/02-properties-of-operations.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-08-03-03-combining-like-terms-in-algebraic-expressions",
+          "title": "Combining like terms in algebraic expressions",
+          "path": "chapters/08-algebraic-expressions/03-combining-like-terms-in-algebraic-expressions.mdx",
+          "estimatedMinutes": 6
+        },
+        {
+          "id": "sec-08-04-04-multiplication-of-algebraic-expressions",
+          "title": "Multiplication of algebraic expressions",
+          "path": "chapters/08-algebraic-expressions/04-multiplication-of-algebraic-expressions.mdx",
+          "estimatedMinutes": 6
+        },
+        {
+          "id": "sec-08-05-05-dividing-polynomials-by-integers-and-monomials",
+          "title": "Dividing polynomials by integers and monomials",
+          "path": "chapters/08-algebraic-expressions/05-dividing-polynomials-by-integers-and-monomials.mdx",
+          "estimatedMinutes": 6
+        },
+        {
+          "id": "sec-08-06-06-products-and-squares-of-binomials",
+          "title": "Products and squares of binomials",
+          "path": "chapters/08-algebraic-expressions/06-products-and-squares-of-binomials.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-08-07-07-substitution-into-algebraic-expressions",
+          "title": "Substitution into algebraic expressions",
+          "path": "chapters/08-algebraic-expressions/07-substitution-into-algebraic-expressions.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "title": "Chapter 9: Equations",
+      "sections": [
+        {
+          "id": "sec-09-01-01-solving-equations-by-inspection",
+          "title": "Solving equations by inspection",
+          "path": "chapters/09-equations/01-solving-equations-by-inspection.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-09-02-02-solving-equations-using-additive-and-multiplicative-inverses",
+          "title": "Solving equations using additive and multiplicative inverses",
+          "path": "chapters/09-equations/02-solving-equations-using-additive-and-multiplicative-inverses.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-09-03-03-setting-up-equations",
+          "title": "Setting up equations",
+          "path": "chapters/09-equations/03-setting-up-equations.mdx",
+          "estimatedMinutes": 6
+        },
+        {
+          "id": "sec-09-04-04-equation-and-situations",
+          "title": "Equation and situations",
+          "path": "chapters/09-equations/04-equation-and-situations.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-09-05-05-solving-equations-by-using-the-laws-of-exponents",
+          "title": "Solving equations by using the laws of exponents",
+          "path": "chapters/09-equations/05-solving-equations-by-using-the-laws-of-exponents.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "title": "Chapter 10: Revision and assessment",
+      "sections": [
+        {
+          "id": "sec-10-01-01-revision",
+          "title": "Revision",
+          "path": "chapters/10-revision-and-assessment/01-revision.mdx",
+          "estimatedMinutes": 11
+        },
+        {
+          "id": "sec-10-02-02-assessment",
+          "title": "Assessment",
+          "path": "chapters/10-revision-and-assessment/02-assessment.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch11",
+      "title": "Chapter 11: Construction of geometric figures",
+      "sections": [
+        {
+          "id": "sec-11-01-11-construction-of-geometric-figures",
+          "title": "Construction of geometric figures",
+          "path": "chapters/11-construction-of-geometric-figures/11-construction-of-geometric-figures.mdx",
+          "estimatedMinutes": 15
+        }
+      ]
+    },
+    {
+      "id": "ch12",
+      "title": "Chapter 12: Geometry of 2d shapes",
+      "sections": [
+        {
+          "id": "sec-12-01-12-geometry-of-2d-shapes",
+          "title": "Geometry of 2d shapes",
+          "path": "chapters/12-geometry-of-2d-shapes/12-geometry-of-2d-shapes.mdx",
+          "estimatedMinutes": 14
+        }
+      ]
+    },
+    {
+      "id": "ch13",
+      "title": "Chapter 13: Geometry of straight lines",
+      "sections": [
+        {
+          "id": "sec-13-01-01-angle-relationships",
+          "title": "Angle relationships",
+          "path": "chapters/13-geometry-of-straight-lines/01-angle-relationships.mdx",
+          "estimatedMinutes": 8
+        },
+        {
+          "id": "sec-13-02-02-identify-and-name-angles",
+          "title": "Identify and name angles",
+          "path": "chapters/13-geometry-of-straight-lines/02-identify-and-name-angles.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-13-03-03-solving-problems",
+          "title": "Solving problems",
+          "path": "chapters/13-geometry-of-straight-lines/03-solving-problems.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch14",
+      "title": "Chapter 14: Pythagoras' theorem",
+      "sections": [
+        {
+          "id": "sec-14-01-14-pythagoras-theorem",
+          "title": "Pythagoras' theorem",
+          "path": "chapters/14-pythagoras-theorem/14-pythagoras-theorem.mdx",
+          "estimatedMinutes": 10
+        }
+      ]
+    },
+    {
+      "id": "ch15",
+      "title": "Chapter 15: Area and perimeter of 2d shapes",
+      "sections": [
+        {
+          "id": "sec-15-01-15-area-and-perimeter-of-2d-shapes",
+          "title": "Area and perimeter of 2d shapes",
+          "path": "chapters/15-area-and-perimeter-of-2d-shapes/15-area-and-perimeter-of-2d-shapes.mdx",
+          "estimatedMinutes": 10
+        }
+      ]
+    },
+    {
+      "id": "ch16",
+      "title": "Chapter 16: Term 2 revision and assessment",
+      "sections": [
+        {
+          "id": "sec-16-01-16-term-2-revision-and-assessment",
+          "title": "Term 2 revision and assessment",
+          "path": "chapters/16-term-2-revision-and-assessment/16-term-2-revision-and-assessment.mdx",
+          "estimatedMinutes": 9
+        }
+      ]
+    }
+  ]
+}
